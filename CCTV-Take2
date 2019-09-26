@@ -1,31 +1,33 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-1 综合HD
 http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
-#EXTINF:-1,CCTV2
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-2 财经
 http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
-#EXTINF:-1,CCTV3
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-3 综艺HD
 http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
-#EXTINF:-1,CCTV4
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-4 中文国际
 http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
-#EXTINF:-1,CCTV5
-http://cctvcnch5c.v.wscdns.com/live/cctv5_2/index.m3u8
-#EXTINF:-1,CCTV6
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-5加
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-6 电影HD
 http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
-#EXTINF:-1,CCTV7
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-7 军事农业
 http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
-#EXTINF:-1,CCTV8
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-8 电视剧HD
 http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-#EXTINF:-1,CCTV9
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-9 纪录
 http://cctvcnch5c.v.wscdns.com/live/cctv9_2/index.m3u8
-#EXTINF:-1,CCTV10
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-10 科教
 http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
-#EXTINF:-1,CCTV11
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-11 戏曲
 http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
-#EXTINF:-1,CCTV12
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-12 社会与法 
 http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
-#EXTINF:-1,CCTV13
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-13 新闻
 http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
-#EXTINF:-1,CCTV14
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-14 少儿
 http://cctvcnch5c.v.wscdns.com/live/cctv14_2/index.m3u8
-#EXTINF:-1,CCTV15
+#EXTINF:tvg-logo="https://www.pinclipart.com/picdir/middle/418-4184664_cctv-vector-symbol-china-central-television-logo-clipart.png" group-title="CCTV 中央电视",CCTV-15 什么东西
 http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="CCTV 中央电视",CHC 高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
