@@ -1,0 +1,102 @@
+#EXTM3U
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="China - 卫视",湖南卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
+
+#EXTINF:tvg-logo="http://a3.att.hudong.com/00/26/01300000246938134535260137853.jpg" group-title="China - 卫视",江蘇卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="China - 卫视",浙江卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
+
+#EXTINF:tvg-logo="http://a1.att.hudong.com/52/31/01300000305058125264310892385.jpg" group-title="China - 卫视", 东方卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg" group-title="China - 卫视",北京卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png" group-title="China - 卫视",深圳卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="China - 卫视",黑龙江卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/79/SDTV_logo.png" group-title="China - 卫视",山东卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" group-title="China - 卫视",天津卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/HBTV_logo.png" group-title="China - 卫视",湖北卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d8/GRT_Satellite_Channel_2016_logo.jpg" group-title="China - 卫视",广东卫视 HD
+http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png" group-title="China - 卫视", 四川卫视
+http://223.110.241.204:6610/cntv/live1/sichuanstv/sichuanstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Liaoning_Television_Logo.png" group-title="China - 卫视", 辽宁卫视 
+http://223.110.241.204:6610/cntv/live1/liaoningstv/liaoningstv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="China - 卫视",重庆卫视 HD
+http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/Shaanxi_Satellite_TV.png" group-title="China - 卫视",陕西卫视
+http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="China - 卫视", 江西卫视
+http://223.110.241.204:6610/cntv/live1/jiangxistv/jiangxistv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/68/AHTV_logo.png" group-title="China - 卫视",安徽卫视
+http://223.110.241.204:6610/cntv/live1/anhuistv/anhuistv
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg" group-title="China - 卫视", 广西卫视
+http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="China - 卫视", 河南卫视
+http://223.110.241.204:6610/gitv/live1/HENAN/HENAN/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg" group-title="China - 卫视", 东南卫视
+http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/63/JLTV_logo.png" group-title="China - 卫视", 吉林卫视
+http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN/
+
+#EXTINF:tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190420_47l2ad83je5c03jelljfgkgcd6fcc_318x197.jpg" group-title="China - 卫视", 山西卫视
+http://223.110.241.204:6610/gitv/live1/SXWS/SXWS/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="China - 卫视", 青海卫视
+http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/Guizhou_tv.jpg" group-title="China - 卫视", 贵州卫视
+http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/55/YNtv.png" group-title="China - 卫视", 云南卫视
+http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png" group-title="China - 卫视", 宁夏卫视
+http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6b/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="China - 卫视", 新疆卫视
+http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="China - 卫视", 甘肃卫视
+http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="China - 卫视", 西藏卫视
+http://223.110.241.204:6610/gitv/live1/G_XIZANG/G_XIZANG/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e8/Bingtuan_Television_Logo_20090828.png" group-title="China - 卫视", 兵团卫视
+http://223.110.241.204:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a2/Xiamen_Star_Logo.png" group-title="China - 卫视", 厦门卫视
+http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/China_yanbian_tv_logo.png" group-title="China - 卫视", 延边卫视
+http://223.110.241.204:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png" group-title="China - 卫视", 康巴卫视
+http://223.110.241.204:6610/gitv/live1/G_KANGBA/G_KANGBA/
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1d/NMTV_logo.png" group-title="China - 卫视", 内蒙卫视
+http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
