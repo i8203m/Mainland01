@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="China - 卫视",湖南卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.88:5140
+#EXTINF:tvg-logo="http://a3.att.hudong.com/00/26/01300000246938134535260137853.jpg" group-title="China - 卫视",江蘇卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.89:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="China - 卫视",浙江卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.124:5140
+#EXTINF:tvg-logo="http://a1.att.hudong.com/52/31/01300000305058125264310892385.jpg" group-title="China - 卫视", 东方卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.123:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg" group-title="China - 卫视",北京卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.180:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png" group-title="China - 卫视",深圳卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.182:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="China - 卫视",黑龙江卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.183:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/79/SDTV_logo.png" group-title="China - 卫视",山东卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.168:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png" group-title="China - 卫视", 四川卫视
+http://110.185.67.51:8888/rtp/239.93.0.169:5140
+#EXTINF:tvg-logo="http://image.qingk.cn/image/zhlb/img300/f31139bd1b1b46dc95ef7b4832f3aefa.png" group-title="China - 卫视", 影视文艺高清
+http://110.185.67.51:8888/rtp/239.93.0.166:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" group-title="China - 卫视",天津卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.167:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/HBTV_logo.png" group-title="China - 卫视",湖北卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.250:5140
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d8/GRT_Satellite_Channel_2016_logo.jpg" group-title="China - 卫视",广东卫视 HD
+http://110.185.67.51:8888/rtp/239.93.0.181:5140
