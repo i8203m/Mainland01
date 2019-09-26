@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="China - 卫视",湖南卫视 HD
+http://60.223.171.4:9981/stream/channelid/777926731
+#EXTINF:tvg-logo="http://a3.att.hudong.com/00/26/01300000246938134535260137853.jpg" group-title="China - 卫视",江蘇卫视 HD
+http://60.223.171.4:9981/stream/channelid/958972
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="China - 卫视",浙江卫视 HD
+http://60.223.171.4:9981/stream/channelid/910274617
+#EXTINF:tvg-logo="http://a1.att.hudong.com/52/31/01300000305058125264310892385.jpg" group-title="China - 卫视", 东方卫视 HD
+http://60.223.171.4:9981/stream/channelid/582395486
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg" group-title="China - 卫视",北京卫视 HD
+http://60.223.171.4:9981/stream/channelid/338402191
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png" group-title="China - 卫视",深圳卫视 HD
+http://60.223.171.4:9981/stream/channelid/351317341
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="China - 卫视",黑龙江卫视 HD
+http://60.223.171.4:9981/stream/channelid/1199007339
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/79/SDTV_logo.png" group-title="China - 卫视",山东卫视 HD
+http://60.223.171.4:9981/stream/channelid/736889687
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png" group-title="China - 卫视", 四川卫视
+http://60.223.171.4:9981/stream/channelid/161643943
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" group-title="China - 卫视",天津卫视 HD
+http://60.223.171.4:9981/stream/channelid/1252078549
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/HBTV_logo.png" group-title="China - 卫视",湖北卫视 HD
+http://60.223.171.4:9981/stream/channelid/1104905551
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d8/GRT_Satellite_Channel_2016_logo.jpg" group-title="China - 卫视",广东卫视 HD
+http://60.223.171.4:9981/stream/channelid/1528946012
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Liaoning_Television_Logo.png" group-title="China - 卫视", 辽宁卫视 
+http://60.223.171.4:9981/stream/channelid/180272931
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="China - 卫视",重庆卫视 HD
+http://60.223.171.4:9981/stream/channelid/108309281
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/Shaanxi_Satellite_TV.png" group-title="China - 卫视",陕西卫视
+http://60.223.171.4:9981/stream/channelid/811490412
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="China - 卫视", 江西卫视
+http://60.223.171.4:9981/stream/channelid/1752552612
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/68/AHTV_logo.png" group-title="China - 卫视",安徽卫视
+http://60.223.171.4:9981/stream/channelid/1096421873
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/LOGOGuangxiTV.jpg" group-title="China - 卫视", 广西卫视
+http://60.223.171.4:9981/stream/channelid/162989690
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a2/Hebtv_logo.png" group-title="China - 卫视", 河北卫视
+http://60.223.171.4:9981/stream/channelid/538782071
