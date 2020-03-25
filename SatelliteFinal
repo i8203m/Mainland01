@@ -95,7 +95,7 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225761/1/index.m3u8?fmt=ts2hls
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1d/NMTV_logo.png" group-title="China - 卫视", 内蒙卫视
 http://111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8
 
-#EXTINF:-1 ch-id="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="中国频道",黄河卫视
+#EXTINF:-1 ch-id="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="China - 卫视",黄河卫视
 http://61.58.60.230:9319/live/232.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/China_yanbian_tv_logo.png" group-title="China - 卫视", 延边卫视
