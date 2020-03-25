@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-1 综合 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-2 财经 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-3 综艺 HD
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-4 中文国际 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国频道",CCTV-4 美洲
+https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568298978362_864.jpg" group-title="中国频道",CCTV-4 欧洲
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8 
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-5 体育 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-5+ 体育赛事 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-6 电影 HD
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-7 国防军事 HD
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-8 电视剧 HD
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-9 纪录 HD
+http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-10 科教 HD
+http://111.40.205.76/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-11 戏曲 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-12 社会与法 HD
+http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-13 新闻 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-14 少儿 HD
+http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-15 音乐 HD
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-17 农业农村 HD
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225733/index.m3u8
+
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-1 综合HD
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-2 财经
@@ -10,8 +49,6 @@ http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-5 体育
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-5+ 体育赛事
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
-#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-5+ 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-6 电影HD
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
@@ -19,7 +56,7 @@ http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-8 电视剧HD
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-9 纪录
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-9 纪录 
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="CCTV 中央电视",CCTV-10 科教
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
