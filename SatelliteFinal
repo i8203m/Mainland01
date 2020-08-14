@@ -10,12 +10,18 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3
 
 #EXTINF:tvg-logo="http://a3.att.hudong.com/00/26/01300000246938134535260137853.jpg" group-title="China - 卫视",江蘇卫视 HD
 http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:tvg-logo="http://a3.att.hudong.com/00/26/01300000246938134535260137853.jpg" group-title="China - 卫视",江蘇卫视 (Opt#2)
+http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="China - 卫视",浙江卫视 HD
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="China - 卫视",浙江卫视 (Opt#2)
+http://39.130.206.213:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
 
 #EXTINF:tvg-logo="http://a1.att.hudong.com/52/31/01300000305058125264310892385.jpg" group-title="China - 卫视", 东方卫视 HD
 http://111.40.205.76/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:tvg-logo="http://a1.att.hudong.com/52/31/01300000305058125264310892385.jpg" group-title="China - 卫视", 东方卫视 (Opt#2)
+http://39.130.206.213:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg" group-title="China - 卫视",北京卫视 HD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
@@ -25,18 +31,20 @@ http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png" group-title="China - 卫视",深圳卫视 HD
 http://111.40.205.76/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png" group-title="China - 卫视",深圳卫视 (Opt#2)
+http://39.130.206.213:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" group-title="China - 卫视",天津卫视 HD
+http://111.40.205.76/PLTV/88888888/224/3221225648/index.m3u8
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" group-title="China - 卫视",天津卫视 (Opt#2)
+http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="China - 卫视",黑龙江卫视 HD
 http://111.40.205.76/PLTV/88888888/224/3221225640/index.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/79/SDTV_logo.png" group-title="China - 卫视",山东卫视 HD
 http://111.40.205.76/PLTV/88888888/224/3221225737/index.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" group-title="China - 卫视",天津卫视 HD
-http://111.40.205.76/PLTV/88888888/224/3221225648/index.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" group-title="China - 卫视",天津卫视 (Opt#2)
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/HBTV_logo.png" group-title="China - 卫视",湖北卫视 HD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294501.m3u8
